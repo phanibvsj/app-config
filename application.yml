@@ -10,8 +10,3 @@ logging:
   level:
     io:
       pivotal: DEBUG
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8766/eureka
