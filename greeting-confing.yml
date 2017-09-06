@@ -1,2 +1,7 @@
+security:
+  basic:
+    enabled: false
 
-name: git
+management:
+  security:
+    enabled: false
